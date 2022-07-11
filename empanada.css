@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(195, 233, 220);
+}
+
+a,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: arial;
+    font-weight: bolder;
+}
+
+th,
+tr,
+td,
+table {
+    border: 0.5px solid black;
+}
+
+table {
+    width: 100%;
+}
+
+th,
+td {
+    width: 50%;
+}
+
+.prc-25 {
+    width: 25%;
+}
+
+a {
+    color: rgb(26 27 27);
+    font-family: cursive;
+    font-size: 24px;
+}
+
+div.h3 {
+    background-color: #d3e4e4;
+}
+
+.center {
+    width: 100px;
+}
+
+.div-w40 {
+    max-width: 40%;
+}
